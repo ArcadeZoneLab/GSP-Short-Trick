@@ -1,7 +1,7 @@
 
 # HTTP Load Balancer with Cloud Armor [GSP215]
 
-# Please like share & subscribe to [Techcps](https://www.youtube.com/@techcps)
+# Please like share & subscribe to [ArcadeZoneLab](https://www.youtube.com/@arcadezonelab)
 
 
 ```
