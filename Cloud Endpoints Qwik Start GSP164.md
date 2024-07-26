@@ -1,7 +1,7 @@
 
 # Cloud Endpoints: Qwik Start [GSP164]
 
-# Please like share & subscribe to [Techcps](https://www.youtube.com/@techcps)
+# Please like share & subscribe to [ArcadeZoneLab](https://www.youtube.com/@arcadezonelab)
 
 * In the GCP Console open the Cloud Shell and enter the following commands:
 
