@@ -1,7 +1,7 @@
 
 # Google Cloud Pub/Sub: Qwik Start - Python [GSP094]
 
-# Please like share & subscribe to [Techcps](https://www.youtube.com/@techcps)
+# Please like share & subscribe to [ArcadeZoneLab](https://www.youtube.com/@arcadezonelab)
 
 * In the GCP Console open the Cloud Shell and enter the following commands:
 
