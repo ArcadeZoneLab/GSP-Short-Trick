@@ -1,7 +1,7 @@
 
 # Dataflow: Qwik Start - Templates [GSP192]
 
-# If you consider that the video helped you to complete your lab, so please do like and subscribe. https://www.youtube.com/@techcps
+# If you consider that the video helped you to complete your lab, so please do like and subscribe. https://www.youtube.com/@arcadezonelab
 
 Click Activate Cloud Shell Activate Cloud Shell icon at the top of the Google Cloud console
 
