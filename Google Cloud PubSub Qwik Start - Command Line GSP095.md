@@ -1,7 +1,7 @@
 
 # Google Cloud Pub/Sub: Qwik Start - Command Line [GSP095]
 
-# Please like share & subscribe to [Techcps](https://www.youtube.com/@techcps)
+# Please like share & subscribe to [ArcadeZoneLab](https://www.youtube.com/@arcadezonelab)
 
 
 ```
